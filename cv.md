@@ -13,6 +13,8 @@ const developer = {
 
   telegram: '@HL_Dz',
 
+  skype: 'Dzmitry Hlushak',
+
   email: 'hlushak.dzmitry@gmail.com',
 
   gitHub: 'https://github.com/HL-Dz'
